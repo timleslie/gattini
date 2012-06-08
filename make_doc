@@ -1,0 +1,1 @@
+epydoc -o ~/public_html/doc --graph all .

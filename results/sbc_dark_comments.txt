@@ -1,0 +1,4 @@
+/home/timl/data/sbc_dark/dark-sbc-0011.fit Almost complete saturation. Looks like Column bleed all over except for the top left corner which has realistic values.
+/home/timl/data/sbc_dark/dark-sbc-0017.fit Bottom right seems marginally brighter than top left.
+/home/timl/data/sbc_dark/dark-sbc-0019.fit Bottom right seems marginally brighter than top left.
+/home/timl/data/sbc_dark/dark-sbc-0012.fit column bleed over much of the image
